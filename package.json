@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/liennle14/COMP3104.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Lien Le 101322849",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liennle14/COMP3104/issues"
